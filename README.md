@@ -1,4 +1,6 @@
 # AndroidEatIt
+My trial project for designing food ordering app in movie theatres.
+
 tested on API 26, nexus4
 
  ● Used Firebase to store restaurant data, Applied MVC pattern design style for client
